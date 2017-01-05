@@ -19,10 +19,10 @@ Git can detect these changes. Now, some questions and tasks:
 In Git, adding files to the repository is achieved via the git add and git commit
 commands. But what if you want to delete files from the repository? 
 
-####1 Create a two new files (app.js and readme.md ) and Add them to Staging (git add .)
+####1 Create a two new files (app.js and instructions.text ) and Add them to Staging (git add .)
 ####2 Check if file has been add (git status)
 ####3 Commit both files to repository
-####3 Now you decided to remove readme.md file (rm readme)
+####3 Now you decided to remove instructions.text file (rm readme)
 ####4 check git status
 ####5 Commit your changes
 
