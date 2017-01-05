@@ -4,7 +4,7 @@
 ####2 copy the lorem-ipsum.txt file to this Git repository.
 ####3 Commit this file into the repository.
 ####4 Copy lorem-ipsum-change.txt from the zip file of the previous step, and add it to the directory. 
-####5 Rename (or copy) this new file to lorem-ipsum.txt.
+####5 Rename (or copy) this new file to lorem-ipsum.txt (feel free to use git gui to inspect the changes or use git diff to check the differences).
 
 By following the preceding steps, you’ve created a change in the lorem-ipsum.txt file.
 Git can detect these changes. Now, some questions and tasks:
